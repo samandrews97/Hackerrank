@@ -27,7 +27,7 @@ public class Solution {
 
             System.out.println("Weird");
 
-        } else if ((N % 2 == 0) && (N >= 5 && N <= 5)) {
+        } else if ((N % 2 == 0) && (N >= 2 && N <= 5)) {
 
             System.out.println("Not Weird");
 
