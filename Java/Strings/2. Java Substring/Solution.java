@@ -15,6 +15,8 @@ public class Solution {
 
         System.out.println(S.substring(start, end));
 
+        in.close();
+        
     }
     
 }

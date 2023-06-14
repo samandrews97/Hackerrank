@@ -27,6 +27,8 @@ public class Solution {
 
         System.out.println(AFirstUpper + " " + BFirstUpper);
 
+        sc.close();
+
     }
 
 }

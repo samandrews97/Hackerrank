@@ -45,6 +45,8 @@ public class Solution {
 
         }
 
+        scanner.close();
+
     }
 
 }
